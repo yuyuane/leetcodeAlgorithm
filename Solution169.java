@@ -10,7 +10,7 @@ import java.util.HashMap;
  * Output: 2
  * O(1)
  */
-public class Solution168 {
+public class Solution169 {
     public static void main(String[] args) {
         int[] nums = new int[]{1};
         int i = majorityElement(nums);
